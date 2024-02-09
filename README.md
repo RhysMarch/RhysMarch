@@ -4,5 +4,5 @@ I started programming at around the age of 16 and I am currently studying Comput
 
 I am more experienced with Python, Web Development (including frameworks such as Django & Bootstrap), and C# but I also have experience with Java, Docker, Unity and Linux.
 
-My portfolio can be found here: https://rhysmarch.github.io/
+My portfolio can be found here: https://rhysmarch.com/
 
