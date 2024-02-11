@@ -2,7 +2,15 @@
 
 I started programming at around the age of 16 and I am currently studying Computer Science at Newcastle University. I am interested in Web Development and Cyber Security.
 
-I am more experienced with Python, Web Development (including frameworks such as Django & Bootstrap), and C# but I also have experience with Java, Docker, Unity and Linux.
+<br>
 
-My portfolio can be found here: https://rhysmarch.com/
+I have experience with the following:
+
+- **Languages**: Python, C#, Java, JavaScript
+- **Frameworks**: Django, Bootstrap
+- **Tools**: Docker, Unity, Linux 
+
+<br>
+
+Check out my portfolio here: [rhysmarch.com](https://rhysmarch.com/)
 
