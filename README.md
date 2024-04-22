@@ -8,8 +8,7 @@ I have experience with the following:
 
 - **Languages**: Python, C#, Java, JavaScript
 - **Frameworks**: Django, Bootstrap
-- **Tools**: Docker, Unity, Linux 
-
+- **Tools**: Docker, Unity
 <br>
 
 Check out my portfolio here: [rhysmarch.com](https://rhysmarch.com/)
