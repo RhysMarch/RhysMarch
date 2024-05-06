@@ -7,7 +7,7 @@ I started programming at around the age of 16 and I am currently studying Comput
 I have experience with the following:
 
 - **Languages**: Python, C#, Java, JavaScript
-- **Frameworks**: Django, Bootstrap
+- **Frameworks**: Django, Bootstrap, Textual
 - **Tools**: Docker, Unity
 <br>
 
