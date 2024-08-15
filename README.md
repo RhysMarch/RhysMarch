@@ -1,3 +1,5 @@
+Hi there, I'm Rhys :)
+
 I have experience with the following:
 
 - **Languages**: Python, C#, Java, JavaScript
